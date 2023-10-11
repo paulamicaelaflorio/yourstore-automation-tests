@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto de automatización de pruebas utiliza Selenium con Python para llevar a cabo diversas pruebas en la tienda en línea "Your Store". Las pruebas incluyen el registro de nuevos usuarios, inicio de sesión, compras como usuario invitado y compras con una cuenta de usuario registrada.
+Este proyecto de automatización de pruebas utiliza Selenium con Python para llevar a cabo diversas pruebas en la tienda en línea "Your Store"(https://opencart.abstracta.us/). Las pruebas incluyen el registro de nuevos usuarios, inicio de sesión, compras como usuario invitado y compras con una cuenta de usuario registrada.
 
 ## Requisitos
 

@@ -38,22 +38,22 @@ Para mantener un registro organizado de los resultados de cada caso de prueba, e
 
 ## Test Cases
 
-- Registro de Nuevo Usuario: 
+1. Registro de Nuevo Usuario: 
 Este caso de prueba verifica el proceso de registro de un nuevo usuario en la tienda en línea "Your Store".
 
-- Registro de Usuario Existente:
+2. Registro de Usuario Existente:
 Este caso de prueba verifica el proceso de registro de un usuario que ya está registrado en la tienda.
 
-- Inicio de Sesión:
+3. Inicio de Sesión:
 Este caso de prueba verifica el proceso de inicio de sesión en la tienda.
 
-- Inicio de Sesión con Usuario No Registrado:
+4. Inicio de Sesión con Usuario No Registrado:
 Este caso de prueba verifica el inicio de sesión con un usuario que no está registrado en la tienda.
 
-- Compra como Invitado:
+5. Compra como Invitado:
 Este caso de prueba simula el proceso de compra de un producto como usuario invitado.
 
-- Compra con Usuario Registrado:
+6. Compra con Usuario Registrado:
 Este caso de prueba simula el proceso de compra de un producto con un usuario registrado.
 
 ## Funciones Creadas
